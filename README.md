@@ -1,4 +1,4 @@
 cara penggunaan
 buka vscode
-klik file>open file>temba.py
+klik file>open file>tembak.py
 klik run
